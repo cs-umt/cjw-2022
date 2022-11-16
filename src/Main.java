@@ -55,9 +55,9 @@ public class Main {
         if (user_input == 1) {
             user_choice = "Scissor";
         } else if (user_input == 2) {
-            computer_choice = "Paper";
+            user_choice = "Paper";
         } else if (user_input == 3) {
-            computer_choice = "Stone";
+            user_choice = "Stone";
         }
 
         if (computer_number == 1) {
